@@ -201,14 +201,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador WchatCloud-TDCENTER, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador PowerTech, Selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar WchatCloud\n"
-  printf "   [1] Atualizar WchatCloud\n"
-  printf "   [2] Deletar WchatCloud\n"
-  printf "   [3] Bloquear WchatCloud\n"
-  printf "   [4] Desbloquear WchatCloud\n"
-  printf "   [5] Alter. dominio WchatCloud\n"
+  printf "   [0] Instalar whaticket\n"
+  printf "   [1] Atualizar whaticket\n"
+  printf "   [2] Deletar Whaticket\n"
+  printf "   [3] Bloquear Whaticket\n"
+  printf "   [4] Desbloquear Whaticket\n"
+  printf "   [5] Alter. dominio Whaticket\n"
   printf "\n"
   read -p "> " option
 
